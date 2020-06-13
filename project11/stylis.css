@@ -1,0 +1,47 @@
+body{
+	background: lavender;
+}
+
+.left-menu .left-menu-item{
+	display: inline-block;
+	padding: 8px 14px;
+}
+
+.left-menu{
+	background: lavender;
+	width:200px;
+}
+
+ .left-menu .left-menu-item a{
+	text-decoration: none;
+	
+	color:black;
+	display: block;
+	padding: 5px 8px;
+	transition: all 0.8s;
+}
+
+ .left-menu .left-menu-item a:hover{
+	background: #6b55c5;
+}
+
+h1 { 
+	color: black;
+	font-size: 80px;
+	font-family: all;
+	margin: 0px 240px 50px;
+}
+img{
+	margin: 10px 100px 10px;
+}
+.isken {
+	color: black;
+	font-size:19px
+}
+
+video {
+	 margin:  0px 350px 100px;
+}
+ul {
+	font-size:19px
+}
